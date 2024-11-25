@@ -8,7 +8,7 @@ L'utente avrà modo poi di accedere alla vista con l'elenco di appartamenti ed a
 
 
 Si segnala l'utilizzo della risorsa API di Braintree per gestire i pagamenti nel back-office. 
-Per quanto riguarda la parte back-end e back-office si rimanda alla repo BoolBnB-auth https://github.com/Mftr96/boolBnB-client-1.
+Per quanto riguarda la parte front end si rimanda alla repo BoolBnB-auth https://github.com/Mftr96/boolBnB-client-1.
 Per quanto riguarda la creazione, la repo BoolBnB-client-1 e BoolBnb-auth sono state realizzate in team con i seguenti colleghi:
 
 https://github.com/NicholasBuiatti

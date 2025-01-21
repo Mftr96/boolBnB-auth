@@ -26,7 +26,7 @@ https://github.com/Dihep
 
 This project is part of the final work carried out during the web development course at Boolean and involves the creation of a web app that replicates the main features of famous hosting sites such as AirBnB or Booking. This part was developed using Laravel and includes the implementation of the back-end and back-office with the creation of views related to the user dashboard, with a section for received messages and the apartments' visualizations. Users will be able to access the view with the list of apartments and view the details of each apartment, such as statistics in the form of  chart (chartjs was used for chart implementation: https://www.chartjs.org/) and will have  option to sponsor their apartments through payment to highlight them on the front-end.
 
-It is worth noting the use of Braintree API to manage payments in the back-office. Regarding the back-end and back-office part, please refer to the BoolBnB-auth repository at https://github.com/Mftr96/boolBnB-client-1. Regarding the creation, the BoolBnB-client-1 and BoolBnb-auth repositories were developed in a team with the following colleagues:
+It is worth noting the use of Braintree API to manage payments in the back-office. Regarding the front end  part, please refer to the BoolBnB-client repository at https://github.com/Mftr96/boolBnB-client-1. Regarding the creation, the BoolBnB-client-1 and BoolBnb-auth repositories were developed in a team with the following colleagues:
 
 https://github.com/NicholasBuiatti
 
